@@ -1,10 +1,10 @@
 [![Eric Kelley - Header Banner](https://github.com/emkelley/emkelley/raw/master/assets/banner.svg)](https://emk.dev)
 
-
+<style>p.img {margin-right:1rem}</style>
 <h1 align="center">Hey there, I'm Eric Kelley</h1>
 <h3 align="center">I’m a Software Engineer based out of Detroit with a passion for Javascript.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emkelley" alt="emkelley" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=emkelley" alt="emkelley" /> </p>
 
 - 🔭 I’m currently working on [Samurai Zero](https://samuraizero.com/)
 
@@ -30,11 +30,11 @@
 <a href="https://dribbble.com/emkelley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="emkelley" height="30" width="30" /></a>
 <a href="https://www.behance.net/emkelley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="emkelley" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/mrguy3131" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mrguy3131" height="30" width="30" /></a>
-</p>
-
 
 <br />
-<br />
+<br /></p>
+
+
 
 ### My Spotify is currently playing:
 
