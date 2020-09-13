@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on freelance projects
 - 🌱 I’m currently learning AnimeJS
 - 🥅 I'm currently reading ["Dark Age" by Pierce Brown](https://www.goodreads.com/book/show/29226553-dark-age)
-- ⚡ Fun fact: I co-founded an indie [game studio] called Neo Interactive in 2018
+- ⚡ Fun fact: I co-founded an indie game studio called [Neo Interactive](https://neointeractive.dev/) in 2018. Currently working on our debut game, [Samurai Zero](https://samuraizero.com)
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
