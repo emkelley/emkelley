@@ -1,6 +1,5 @@
 [![Eric Kelley - Header Banner](https://github.com/emkelley/emkelley/raw/master/assets/banner.svg)](https://emk.dev)
 
-<style>p.img {margin-right:1rem}</style>
 <h1 align="center">Hey there, I'm Eric Kelley</h1>
 <h3 align="center">I’m a Software Engineer based out of Detroit with a passion for Javascript.</h3><br />
 <center>
