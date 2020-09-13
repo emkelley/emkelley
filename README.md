@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 ### Spotify Playing 🎧
-[![Spotify](https://ek-spotify-now-playing-api.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr)
+[![Spotify](https://ek-spotify-now-playing-api.vercel.app/api/spotify-playing)](https://open.spotify.com/user/q3tqfrxl0t32jad313v2cd5am?si=EEuneWdOQwWs5Lx5RT-yoA)
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
