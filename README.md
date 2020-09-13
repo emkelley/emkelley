@@ -3,7 +3,6 @@
 <h1 align="center">Hey there, I'm Eric Kelley</h1>
 <h3 align="center">I’m a Software Engineer based out of Detroit with a passion for Javascript.</h3><br />
 <center>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=emkelley" alt="emkelley" /> </p>
 
 🔭 I’m currently working on [Samurai Zero](https://samuraizero.com/)
 
