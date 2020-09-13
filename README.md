@@ -1,15 +1,21 @@
 [![Eric Kelley - Header Banner](https://github.com/emkelley/emkelley/raw/master/assets/banner.svg)](https://emk.dev)
-## Hey there, I'm Eric. I’m a Software Engineer based out of Detroit with a passion for Javascript.
+
+## Hey there, I'm Eric. 
+
+[![Website](https://img.shields.io/website?label=emk.dev&style=for-the-badge&url=https%3A%2F%2Femk.dev)](https://emk.dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/0NEGUYY?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F0NEGUYY&screen_name=0NEGUYY)
+
+## I’m a Software Engineer based out of Detroit with a passion for Javascript.
 - 🔭 I’m currently working on freelance projects
 - 🌱 I’m currently learning AnimeJS
 - 🥅 I'm currently reading ["Dark Age" by Pierce Brown](https://www.goodreads.com/book/show/29226553-dark-age)
 - ⚡ Fun fact: I co-founded an indie game studio called [Neo Interactive](https://neointeractive.dev/) in 2018. Currently working on our debut game, [Samurai Zero](https://samuraizero.com)
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="emk.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="0NEGUY Cinematics | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="@0NEGUYY | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ericmkelley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -35,7 +41,7 @@
 <!--END_SECTION:waka-->
 <br />
 <br />
-#### Spotify Currently Playing 🎧
+### My Spotify is currently playing:
 [![Spotify](https://ek-spotify-now-playing-api.vercel.app/api/spotify-playing)](https://www.last.fm/user/emkelley)
 
 [website]: https://emk.dev
