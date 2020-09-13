@@ -1,12 +1,9 @@
 [![Eric Kelley - Header Banner](https://github.com/emkelley/emkelley/raw/master/assets/banner.svg)](https://emk.dev)
 ## Hey there, I'm Eric. I’m a Software Engineer based out of Detroit with a passion for Javascript.
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-### Spotify Playing 🎧
-[![Spotify](https://ek-spotify-now-playing-api.vercel.app/api/spotify-playing)](https://www.last.fm/user/emkelley)
+- 🔭 I’m currently working on freelance projects
+- 🌱 I’m currently learning AnimeJS
+- 🥅 I'm currently reading ["Dark Age" by Pierce Brown](https://www.goodreads.com/book/show/29226553-dark-age)
+- ⚡ Fun fact: I co-founded an indie [game studio] called Neo Interactive in 2018
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -32,8 +29,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
+---
+
+### Spotify Playing 🎧
+[![Spotify](https://ek-spotify-now-playing-api.vercel.app/api/spotify-playing)](https://www.last.fm/user/emkelley)
 
 [website]: https://emk.dev
 [twitter]: https://twitter.com/0NEGUYY
