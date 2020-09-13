@@ -42,6 +42,7 @@
 <br />
 <br />
 ### My Spotify is currently playing:
+
 [![Spotify](https://ek-spotify-now-playing-api.vercel.app/api/spotify-playing)](https://www.last.fm/user/emkelley)
 
 [website]: https://emk.dev
