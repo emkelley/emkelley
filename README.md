@@ -2,6 +2,10 @@
 
 <h1 align="center">Hey there, I'm Eric Kelley</h1>
 <h3 align="center">I’m a Software Engineer based out of Detroit with a passion for Javascript.</h3><br />
+<br /><br />
+<p align="center">  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" eight="40" style="margin-right: 1rem"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" eight="40" style="margin-right: 1rem"/> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" eight="40" style="margin-right: 1rem"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" eight="40" style="margin-right: 1rem"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" eight="40" style="margin-right: 1rem"/><img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" eight="40" style="margin-right: 1rem"/><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" eight="40" style="margin-right: 1rem"/> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" eight="40" style="margin-right: 1rem"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" eight="40" style="margin-right: 1rem"/></p>
+<br />
+<br />
 <center>
 
 🔭 I’m currently working on [Samurai Zero](https://samuraizero.com/)
@@ -31,10 +35,7 @@
 <h2>My Spotify is currently playing:</h2>
 
 [![Spotify](https://ek-spotify-now-playing-api.vercel.app/api/spotify-playing)](https://www.last.fm/user/emkelley)
-<br /><br /><br /><br />
-<p align="center">  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" eight="40" style="margin-right: 1rem"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" eight="40" style="margin-right: 1rem"/> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" eight="40" style="margin-right: 1rem"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" eight="40" style="margin-right: 1rem"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" eight="40" style="margin-right: 1rem"/><img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" eight="40" style="margin-right: 1rem"/><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" eight="40" style="margin-right: 1rem"/> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" eight="40" style="margin-right: 1rem"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" eight="40" style="margin-right: 1rem"/></p>
-<br />
-<br />
+<br /><br />
 
 
 
