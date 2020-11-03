@@ -1,7 +1,7 @@
 [![Eric Kelley - Header Banner](https://github.com/emkelley/emkelley/raw/master/assets/banner.svg)](https://emk.dev)
 
 <h1 align="center">Hey there, I'm Eric Kelley</h1>
-<h3 align="center">I’m a Software Engineer based out of Detroit with a passion for Javascript.</h3><br />
+<h3 align="center">I’m a Software Engineer and Web Designer based out of Detroit with a passion for all things web.</h3><br />
 
 <p align="center">
 <a href="https://codepen.io/emkelley" target="blank">&emsp;<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="emkelley" height="25" width="25" /></a>
