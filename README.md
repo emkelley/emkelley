@@ -6,8 +6,7 @@
 <center>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emkelley&layout=compact&hide=html" alt="emkelley" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emkelley&show_icons=true" alt="emkelley" /></p> <br /><br />
+ <br ><br >
 <h2 align="center">My Spotify is currently playing: </h2>
 
   [![Spotify](https://ek-spotify-now-playing-api.vercel.app/api/spotify-playing)](https://www.last.fm/user/emkelley)
