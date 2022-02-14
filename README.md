@@ -20,3 +20,5 @@
 [youtube]: https://youtube.com/mrguy3131
 [linkedin]: https://linkedin.com/in/ericmkelley
 </center>
+
+[![emkelley Readme](https://github.com/emkelley/emkelley/actions/workflows/profile-readme-stats.yml/badge.svg)](https://github.com/emkelley/emkelley/actions/workflows/profile-readme-stats.yml)
