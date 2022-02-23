@@ -1,7 +1,10 @@
 [![Eric Kelley - Header Banner](https://github.com/emkelley/emkelley/raw/master/assets/banner.svg)](https://emk.dev)
 
 <h2 align="center">Hey there, I'm Eric Kelley</h1>
-<h4 align="center">I’m a Software Engineer and Web Designer based out of Detroit with a passion for all things web.</h3><br />
+I’m a Software Engineer and Web Designer based out of Detroit with a passion for all things web. When not at work, my team is wroking hard on [Samurai Zero](https://samuraizero.com). I'm also building out VIZOR - a VueJS based web app that serves tournament scoreboard overlays to content creators and event organizers. 
+<br />
+
+
 
 <center>
 
