@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey there, I'm Eric Kelley</h1>
 
-I’m a Software Engineer and Web Designer based out of Detroit with a passion for all things web. When not at work, my team is wroking hard on [Samurai Zero](https://samuraizero.com). I'm also building out VIZOR - a VueJS based web app that serves tournament scoreboard overlays to content creators and event organizers. 
+I’m a Software Engineer and Web Designer based out of Detroit with a passion for all things web. When not at work, my team is wroking hard on [Samurai Zero](https://samuraizero.com). I'm also building out [VIZOR](https://usevizor.com/) - a VueJS based web app that serves tournament scoreboard overlays to content creators and event organizers. 
 
 <br />
 <br />
