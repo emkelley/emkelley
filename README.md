@@ -16,4 +16,4 @@
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emkelley&theme=dark" alt="emkelley" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=emkelley)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=emkelley&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
