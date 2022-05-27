@@ -16,4 +16,4 @@
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emkelley&theme=dark" alt="emkelley" /></p>
 
-![Metrics](https://metrics.lecoq.io/emkelley?template=classic&base.header=0&base.repositories=0&base.metadata=0&languages=1&lines=1&base.indepth=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York)
+[![trophy](https://github-profile-trophy.vercel.app/?username=emkelley)](https://github.com/ryo-ma/github-profile-trophy)
