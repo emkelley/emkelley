@@ -1,9 +1,6 @@
 [![Eric Kelley - Header Banner](https://github.com/emkelley/emkelley/raw/master/assets/banner.svg)](https://emk.dev)
 <h1 align="center">Hi 👋, I'm Eric Kelley</h1>
 
-[![wakatime](https://wakatime.com/badge/user/20c8637c-f366-469e-acdc-2c4e53ed212d.svg)](https://wakatime.com/@20c8637c-f366-469e-acdc-2c4e53ed212d)
-
-<h3 align="left">I’m a Software Engineer and Web Designer based out of Detroit with a passion for all things web. I co-founded a game studio in 2018 and we are currently working hard on Samurai Zero. I'm also building out VIZOR - a Vue based web app that serves tournament scoreboard overlays to content creators and event organizers.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
