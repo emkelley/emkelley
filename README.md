@@ -15,8 +15,3 @@
   <a href="https://www.youtube.com/channel/UC7qAF5bPbc2YRlPL0goWCwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucupzj2lleucickynanre9gw" height="30" width="40" /></a>
 </p>
 <br/>
-
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emkelley&theme=dark" alt="emkelley" /></p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=emkelley&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
